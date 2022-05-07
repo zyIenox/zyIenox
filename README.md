@@ -6,4 +6,4 @@ Honestly, it really just depends.
 
 weird furry
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OIympian&theme=dark&show_icons=true)
