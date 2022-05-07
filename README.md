@@ -1,9 +1,5 @@
 Hey, how's it going?
 
-Sometimes I make things, sometimes I don't
-
-Honestly, it really just depends.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OIympian&theme=dark&show_icons=true)
 
 weird furry
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OIympian&theme=dark&show_icons=true)
