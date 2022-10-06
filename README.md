@@ -5,5 +5,7 @@
 
 To contact me, use any of the contacts below:  
 Twitter: [xOIympian](https://twitter.com/xOIympian)  
+(I barely use twitter)  
+  
 Discord: Olympian#4812  
-
+(The best way to contact me)
