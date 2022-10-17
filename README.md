@@ -9,3 +9,6 @@ Twitter: [xOIympian](https://twitter.com/xOIympian)
   
 Discord: Olympian#4812  
 (The best way to contact me)
+  
+Support Me:  
+https://zink.tips/Olympian
