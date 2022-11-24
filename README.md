@@ -1,5 +1,5 @@
 # Hello!
-Welcome to my profile! I code stuff sometimes, not super active atm, I'll probably be doing more contributing near mid-december and after.
+Welcome to my profile! I code stuff sometimes, not super active atm, I'll probably be doing more contributing near mid-december and after.  
 I spend most of my free time programming, honestly don't know why. It's just really fun.
 
 ## Contacts
