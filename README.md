@@ -1,7 +1,6 @@
 # Hello!
-Welcome to my profile! I code stuff sometimes, not super active atm, I'll probably be doing more contributing near mid-december and after.  
-I spend most of my free time programming, honestly don't know why. It's just really fun.
-
+Welcome to my profile. I am a frontend and backend (mainly backend) developer. I (sometimes) do freelancing. If you need to contact me, my contacts and socials are both listed below.  
+ 
 ## Contacts and Socials
 - Twitter: [xOIympian](https://twitter.com/xOIympian)  
 - Discord: Olympian#4812  
