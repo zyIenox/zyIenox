@@ -1,5 +1,5 @@
 # Hello!
-Welcome to my profile. I am a frontend and backend (mainly backend) developer. I (sometimes) do freelancing. If you need to contact me, my contacts and socials are both listed below.  
+Welcome to my profile. I am a frontend and backend (mainly backend) developer. If you need to contact me, my contacts and socials are both listed below.  
  
 ## Contacts and Socials
 - Twitter: [xOIympian](https://twitter.com/xOIympian)  
